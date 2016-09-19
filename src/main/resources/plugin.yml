@@ -1,0 +1,4 @@
+name: NMSLib
+main: me.sirrus86.nmslib.NMSLib
+version: ${project.version}
+author: sirrus86
